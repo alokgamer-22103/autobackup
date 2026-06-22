@@ -6,7 +6,7 @@ echo "=================================="
 echo " Infinity Host Backup Installer"
 echo "=================================="
 
-REPO_RAW="https://github.com/alokgamer-22103/autobackup/main/install.sh"
+REPO_RAW="https://github.com/alokgamer-22103/autobackup/blob/main/backup.py"
 
 apt-get update -y
 apt-get install -y python3 python3-pip curl
